@@ -1,0 +1,32 @@
+body {
+    background: #e8cbc0;
+    background: -webkit-linear-gradient(to right, #e8cbc0, #636fa4);
+    background: linear-gradient(to right, #e8cbc0, #636fa4);
+    min-height: 100vh;
+  }
+  
+  .social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #51608c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #623517;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+  }
+  
+  .social-link:hover,
+  .social-link:focus {
+    background: #ddd;
+    text-decoration: none;
+    color: #555;
+  }
+  .jumbotron{
+    background-color: #bf8756;
+  }
+  h1 , p{
+      color: white;
+  }

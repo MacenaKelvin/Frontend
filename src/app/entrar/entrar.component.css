@@ -1,0 +1,11 @@
+#img-bg{
+    background-image: url('https://image.freepik.com/vetores-gratis/multidao-de-pessoas-de-diferentes-idades-e-racas_74855-5235.jpg') ;
+
+    min-height: 620px;
+
+    background-position: left;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}

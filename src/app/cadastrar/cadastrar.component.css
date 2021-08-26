@@ -1,0 +1,11 @@
+#img-bg{
+    background-image: url('https://image.freepik.com/fotos-gratis/grupo-de-baixa-visao-de-amigos-juntos-de-maos-dadas_23-2148431405.jpg') ;
+
+    min-height: 620px;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
